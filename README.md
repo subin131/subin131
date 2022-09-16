@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, It's me Subin Satyal</h1>
-<h3 align="center">A passionate frontend developer from Nepal.</h3>
+<h3 align="center">A passionate for Web Developer from Nepal.</h3>
 
 - 🔭 I’m currently working on **College Discussion Platform**
 
