@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **College Discussion Platform**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **HTML, CSS, React and Redux**
 
