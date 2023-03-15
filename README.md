@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, It's me Subin Satyal</h1>
-<h3 align="center">A passionate for Web Developer from Nepal.</h3>
+<h3 align="center">A passionate about the Tech from Nepal.</h3>
 
-- 🔭 I’m currently working on **College Discussion Platform**
+- 🔭 Currently working in Brainycube Site.
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Node**
 
 - 💬 Ask me about **HTML, CSS, React and Redux**
 
